@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-## Name : Shuhang Tan
-### Graduate Student of University of Science and Technology of China, Computer Technology
+## Shuhang Tan
+##### Graduate Student of University of Science and Technology of China, Computer Technology
 
 
