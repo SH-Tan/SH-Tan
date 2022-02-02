@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Shuhang Tan's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/SH-Tan/SH-Tan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education Experiences:
+#### University of Science and Technology of China, Master, Computer Technology                         2020.9 - now
+#### China University of Mining and Technology, Bachelor, Electrical Engineering                        2016.9 - 2020.6
+#### University of Wisconsin Madison, Exchanged, Electrical Engineering                                 2017.8 - 2018.6
 
 ### Markdown
 
