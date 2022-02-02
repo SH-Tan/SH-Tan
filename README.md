@@ -15,6 +15,7 @@
 
 ## Shuhang Tan
 ##### Graduate Student of University of Science and Technology of China, Computer Technology
+##### Technologies: C++, Python, Pytorch, Ubuntu, Docker, ROS, git
 #### Personal Pages: https://sh-tan.github.io/SH-Tan/
 
 
