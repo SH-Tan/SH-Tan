@@ -24,7 +24,7 @@
       others, the risk distribution was corrected by introducing the self-vehicle motion state.  
       
   　**Finished:** 3D Objection Detection in LiDAR based on Deep Learning     
-   - [https://github.com/SH-Tan/voxel-rangenet](https://github.com/SH-Tan/voxel-rangenet)  
+   　　[https://github.com/SH-Tan/voxel-rangenet](https://github.com/SH-Tan/voxel-rangenet)  
    1.   **Technologies used:** Python, ROS, Ubuntu, Pytorch, OpenPCDet, KITTI3D  
    2.   **Goal:** To improve the detection accuracy of small targets such as pedestrians and bicycles using LiDAR point clouds.  
    3.    Main references: Voxel-RCNN, Centerpoint, and RangerCNN.  
@@ -37,8 +37,8 @@
 
 - **C++ Learning Projects:** 
 
-　**Processing:** CMU 15445 Lab [https://15445.courses.cs.cmu.edu/fall2021/assignments.html](https://15445.courses.cs.cmu.edu/fall2021/assignments.html)  
-   -  [https://github.com/SH-Tan/cmu_db_15445](https://github.com/SH-Tan/cmu_db_15445)
+　**Processing:** CMU 15445 Lab 
+ 　　[https://github.com/SH-Tan/cmu_db_15445](https://github.com/SH-Tan/cmu_db_15445)
    - [x] Lab0:  C++ Primer
    - [x] Lab1:  Buffer Pool Manager
    - [x] Lab2:  Hash Index
