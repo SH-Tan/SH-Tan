@@ -46,4 +46,4 @@
 - **Microsoft Learn Student Ambassadors(MLSA) Quarterly Social Impact Project:**  
 1. **Just Starting: Digital Accessibile Related** [https://github.com/vanshu25/Sanchaar](https://github.com/vanshu25/Sanchaar)  
    - Purpose: To develop an extension that will enable the video chat apps to convert the sign language used by a person to live subtitles for other people.  
-   - Maybe used technologies: Chorme extension development, Deep learning to recognize the boda language..
+   - Maybe used technologies: Chorme extension development, Deep learning to recognize the body language..
