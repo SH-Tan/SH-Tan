@@ -18,4 +18,8 @@
 ##### Technologies: C++, Python, Pytorch, Ubuntu, Docker, ROS, git
 #### Personal Pages: https://sh-tan.github.io/SH-Tan/
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Tan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH-Tan)](https://github.com/anuraghazra/github-readme-stats)
+
 
