@@ -43,7 +43,7 @@
    - [x] Lab1:  Buffer Pool Manager
    - [x] Lab2:  Hash Index
    - [X] Lab3:  Query Execution
-   - [ ] Lab4:  Concurrency Control 
+   - [X] Lab4:  Concurrency Control 
     
 　**Finished:** Lept_JSON  [https://github.com/SH-Tan/json-tutorial](https://github.com/SH-Tan/json-tutorial)  
  　1. Learnig to build a light JSON interpreter.  
