@@ -11,17 +11,13 @@
 ## Projects:  
 - **Autonomous Vehicles Related:**  
 
-　**Processing:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles  
-   1. **Technologies used:** C++, ROS, Ubuntu  
-   2. Referring to recent papers on risk field in CAV field, the risk field model in these papers is reproduced.  
-   3. Based on ROS, the road data of the surrounding radar and images were collected by the laboratory vehicle.  
-      The information of the image and point cloud were processed by YOLO and point cloud  
-      clustering respectively, and the information published by the perception part  
-      was subscribed to obtain the obstacle categories and 3D coordinates.  
-   4. Considering the different characteristics of obstacles such as road structure,  
-      lane lines and vehicles, different mathematical models are used to construct  
-      risk models respectively. Compared with the previous work of  
-      others, the risk distribution was corrected by introducing the self-vehicle motion state.  
+　**Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
+ 　[https://github.com/SH-Tan/AV\_risk\_model](https://github.com/SH-Tan/AV\_risk\_model)  
+   1. **Technologies used:** C++,Python,ROS,Ubuntu18.04,Matlab 
+   2. **Paper under review:** RCP-RF: A Comprehensive Road-car-pedestrian Risk Management Framework based on Driving Risk Potential Field
+   3. Referring to recent papers on risk field in CAV field, the risk field model in these papers is reproduced;
+   4. In view of the shortage of relevant work, the proposed model considers the different characteristics of obstacles such as road structure, lane lines, vehicles and pedestrians, and adopts different mathematical models to construct risk models respectively;
+   5. Compared with the previous works, the model algorithm estimated the relative motion trend of the vehicle and the obstacle vehicle using cosine similarity between the vector of position and motion direction, and corrected the risk distribution. The CCDF probability curve was used to evaluate the risk relationship of each obstacle. 
       
   　**Finished:** 3D Objection Detection in LiDAR based on Deep Learning     
    　　[https://github.com/SH-Tan/voxel-rangenet](https://github.com/SH-Tan/voxel-rangenet)  
@@ -50,6 +46,7 @@
    
  - **Microsoft Learn Student Ambassadors(MLSA) Quarterly Social Impact Project:** 
  
-　**Just Starting:** Digital Accessibile Related [https://github.com/vanshu25/Sanchaar](https://github.com/vanshu25/Sanchaar)  
+　**Finished:** Digital Accessibile Related [https://github.com/vanshu25/Sanchaar](https://github.com/vanshu25/Sanchaar)  
    1. Purpose: To develop an extension that will enable the video chat apps to convert the sign language used by a person to live subtitles for other people.  
-   2. Maybe used technologies: Chorme extension development, Deep learning to recognize the body language..
+   2. Maybe used technologies: Chorme extension development, Deep learning to recognize the body language.
+   3. Participate in quarterly social impact project from January 2022 to April 2022. Top one of 15 teams.
