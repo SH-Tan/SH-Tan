@@ -12,6 +12,7 @@
 - **Autonomous Vehicles Related:**  
 
 　**Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
+ 
  　[https://github.com/SH-Tan/AV\_risk\_model](https://github.com/SH-Tan/AV\_risk\_model)  
    1. **Technologies used:** C++,Python,ROS,Ubuntu18.04,Matlab 
    2. **Paper under review:** RCP-RF: A Comprehensive Road-car-pedestrian Risk Management Framework based on Driving Risk Potential Field
@@ -33,7 +34,7 @@
 
 - **C++ Learning Projects:** 
 
-　**Processing:** CMU 15445 Lab 
+　**Finished:** CMU 15445 Lab 
  　　[https://github.com/SH-Tan/cmu_db_15445](https://github.com/SH-Tan/cmu_db_15445)
    - [x] Lab0:  C++ Primer
    - [x] Lab1:  Buffer Pool Manager
