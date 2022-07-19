@@ -14,10 +14,10 @@
 
 1. **Technologies used:** Angular, Typescript..
 
-2.**Goal:** building an onshore workbench for ITs to revise and modified the trade data, including a UI for criteria filter and id mapping display, and and backend about database interaction;
+ 2. **Goal:** building an onshore workbench for ITs to revise and modified the trade data, including a UI for criteria filter and id mapping display, and and backend about database interaction;
 
 
-3.**In progress:** try to build the UI using Angular framework.
+ 3. **In progress:** try to build the UI using Angular framework.
 
 ## Projects:  
 - **Autonomous Vehicles Related:**                                                                   
@@ -33,6 +33,7 @@
    4.Based on original scaneline cluster algorithm, add 3D NMS to filter extra boxes;
    
    5.Combined HD map to extract road ROI.
+   
 　
  **Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
  
