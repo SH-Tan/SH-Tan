@@ -10,20 +10,28 @@
 
 
 ## Internship:
-**Morgan Stanley Tech Summer Intern**                                                                 2022.7-Present
+**Morgan Stanley Tech Summer Intern**                                                                   2022.7-Present
+
 1. **Technologies used:** Angular, Typescript..
-2.Goal: building an onshore workbench for ITs to revise and modified the trade data, including a UI for criteria filter and id mapping display, and and backend about database interaction;
-236
-3.In progress: try to build the UI using Angular framework.
+
+2.**Goal:** building an onshore workbench for ITs to revise and modified the trade data, including a UI for criteria filter and id mapping display, and and backend about database interaction;
+
+
+3.**In progress:** try to build the UI using Angular framework.
 
 ## Projects:  
 - **Autonomous Vehicles Related:**                                                                   
 
- **Progressing:** LiDar point cloud Cluster and recognization                                          2022.5-Present
+ **Progressing:** LiDar point cloud Cluster and recognization                                            2022.5-Present
+ 
    1. **Technologies used:** C++,ROS,Ubuntu18.04,git,cmake
+  
    2.Learned code standardization, extracted and reconstructed laboratory codes of original point cloud clustering and Boundingox calculation;
+   
    3.In progress: try to improve the performance of the point cloud  cluster and provide the obstacle identification label types list;
+   
    4.Based on original scaneline cluster algorithm, add 3D NMS to filter extra boxes;
+   
    5.Combined HD map to extract road ROI.
 　
  **Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
