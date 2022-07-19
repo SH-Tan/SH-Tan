@@ -35,7 +35,9 @@
    5.Combined HD map to extract road ROI.
    
 　
- **Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
+
+
+  **Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
  
  　[https://github.com/SH-Tan/AV\_risk\_model](https://github.com/SH-Tan/AV\_risk\_model)  
    1. **Technologies used:** C++,Python,ROS,Ubuntu18.04,Matlab 
