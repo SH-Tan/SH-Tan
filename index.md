@@ -40,7 +40,7 @@ filter and id mapping display, and and backend about database interaction;
  **Finished:** LiDar point cloud Cluster and recognization                                            2022.5-2022.8
  
    1. **Technologies used:** C++,ROS,Ubuntu18.04,git,cmake
-  
+
     2.Learned code standardization, extracted and reconstructed laboratory codes of original point cloud clustering and Boundingox calculation;
 
     3.To improve the performance of cloud clustering, 3D NMS module is added after the original Scaneline algorithm to filter out redundant boxes;
