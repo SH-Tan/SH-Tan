@@ -10,31 +10,45 @@
 
 
 ## Internship:
-**Morgan Stanley Tech Summer Intern**                                                                   2022.7-Present
+**Morgan Stanley Tech Summer Intern**                                                                   2022.7-2022.9
 
-1. **Technologies used:** Angular, Typescript..
+1. **Technologies used:** Angular, typescript, java..
+ 
+2. **Goal:** building an onshore workbench for ITs to revise and modified the trade data, including a UI for criteria
+filter and id mapping display, and and backend about database interaction;
 
- 2. **Goal:** building an onshore workbench for ITs to revise and modified the trade data, including a UI for criteria filter and id mapping display, and and backend about database interaction;
+3. Use the Ag Grid framework to edit table cells, adjust other functions such as theme and popover;
 
-
- 3. **In progress:** try to build the UI using Angular framework.
+4. Connect the front end and the back end, and post and PUT data in the back end;
+ 
+5. Learn Java and Spring, realize simple get and put API.
 
 ## Projects:  
-- **Autonomous Vehicles Related:**                                                                   
+- **Autonomous Vehicles Related:**    
 
- **Progressing:** LiDar point cloud Cluster and recognization                                            2022.5-Present
+**On going:** LiDAR deep learning 3D object detection model deployment                                2022.9-present
+
+  1. **Technology:** python, pytorch, C++
+ 
+  2.  Investigate the process of deep learning model training and deployment, including the conversion from pytorch training to late ONNX and platform deployment;
+ 
+  3.  Investigate the current model papers, and preliminarily attempt to reproduce VPFNet and SST models.
+
+
+
+
+ **Finished:** LiDar point cloud Cluster and recognization                                            2022.5-2022.8
  
    1. **Technologies used:** C++,ROS,Ubuntu18.04,git,cmake
   
-   2.Learned code standardization, extracted and reconstructed laboratory codes of original point cloud clustering and Boundingox calculation;
+    2.Learned code standardization, extracted and reconstructed laboratory codes of original point cloud clustering and Boundingox calculation;
+
+    3.To improve the performance of cloud clustering, 3D NMS module is added after the original Scaneline algorithm to filter out redundant boxes;
+
+    4.Combined with high-precision map, the road ROI is extracted, and the point cloud of obstacles on the road is clustered;
+
+    5.Reconstruct BoundingBox algorithm refers to Baidu’s algorithm, and transplants it to adapt the input and output interface of our own code.
    
-   3.In progress: try to improve the performance of the point cloud  cluster and provide the obstacle identification label types list;
-   
-   4.Based on original scaneline cluster algorithm, add 3D NMS to filter extra boxes;
-   
-   5.Combined HD map to extract road ROI.
-   
-　
 
 
   **Finished:** A Quantification Risk Assessment Method Based on Driving Safety Field Model for Autonomous Vehicles 
