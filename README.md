@@ -14,7 +14,7 @@
 -->
 
 ## Shuhang Tan
-##### Graduate Student of University of Science and Technology of China, Computer Technology
+##### Ph.D. Student of Rensselaer Polytechnic Institute, Computer Science
 ##### Technologies: C++, Python, Pytorch, Ubuntu, Docker, ROS, git
 <!-- ** #### Personal Pages: https://sh-tan.github.io/SH-Tan/ -->
 #### [Google Scholar](https://scholar.google.com/citations?user=jFnNVcgAAAAJ&hl=en)
