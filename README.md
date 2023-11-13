@@ -16,7 +16,7 @@
 ## Shuhang Tan
 ##### Ph.D. Student of Rensselaer Polytechnic Institute, Computer Science
 ##### Technologies: C++, Python, Pytorch, Ubuntu, Docker, ROS, git 
-Personal Pages: https://sh-tan.github.io (ongoing (I hate Front end))
+Personal Pages: https://sh-tan.github.io *ongoing (I hate Front end)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Tan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
