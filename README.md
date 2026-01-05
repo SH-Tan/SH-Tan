@@ -15,6 +15,5 @@
 
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SH-Tan)](https://git.io/streak-stats)
 
 
