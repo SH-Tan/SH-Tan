@@ -15,6 +15,6 @@
 
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Tan)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SH-Tan)](https://git.io/streak-stats)
 
 
