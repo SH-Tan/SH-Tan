@@ -14,6 +14,6 @@
 -->
 
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SH-Tan&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
