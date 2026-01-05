@@ -15,8 +15,6 @@
 
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Tan&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SH-Tan&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Tan)](https://github.com/anuraghazra/github-readme-stats)
 
 
