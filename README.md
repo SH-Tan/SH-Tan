@@ -14,6 +14,6 @@
 -->
 
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
-https://gist.github.com/SH-Tan
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SH-Tan&layout=compact)
 
 
