@@ -16,7 +16,5 @@
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
 ## 📊 GitHub Stats
 
-![GitHub stats](./assets/stats.svg)
-
-![Top Langs](./assets/top-langs.svg)
-
+![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
