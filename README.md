@@ -13,11 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-require 'githubstats'
-stats = GithubStats.new('akerl')
-puts stats.data.today # Prints today's current score
-
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Tan)](https://github.com/anuraghazra/github-readme-stats)
+[![Shuhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=sh-tan)](https://github.com/anuraghazra/github-readme-stats)
 
 
