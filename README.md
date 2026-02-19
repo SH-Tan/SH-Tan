@@ -14,7 +14,9 @@
 -->
 
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
+## 📊 GitHub Stats
+
+![GitHub stats](./assets/stats.svg)
+
+![Top Langs](./assets/top-langs.svg)
 
