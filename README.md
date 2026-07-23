@@ -16,6 +16,8 @@
 <!--- Personal Pages: https://sh-tan.github.io *ongoing (I hate the front end) --->
 ## 📊 GitHub Stats
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SH-Tan)](https://github.com/stats-organization/github-stats-extended)
+
 ![Stats](./profile/stats.svg)
 
 ![Top Langs](./profile/top-langs.svg)
